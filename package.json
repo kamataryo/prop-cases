@@ -1,0 +1,23 @@
+{
+  "name": "prop-cases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamataryo/prop-cases.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamataryo/prop-cases/issues"
+  },
+  "homepage": "https://github.com/kamataryo/prop-cases#readme",
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.2.0"
+  }
+}
